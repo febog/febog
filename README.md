@@ -2,7 +2,7 @@
 - 👀 I’m interested in web technologies.
 - 🌱 I’m currently learning C++.
 - 💻 I've worked with C#, JavaScript.
-- 📫 You can reach me @febog on Twitter.
+- 📫 You can reach me on Twitter [@febog](https://twitter.com/febog) and Mastodon <a rel="me" href="https://hachyderm.io/@febog">@febog@hachyderm.io</a>
 
 <!---
 febog/febog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
