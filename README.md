@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felipe.
 - 👀 I’m interested in web technologies.
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I’m currently learning C#.
 - 💻 I've worked with C#, JavaScript, CSS, Python and C++.
 - 📫 You can reach me on the email listed on my GitHub profile.
 
